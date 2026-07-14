@@ -1,0 +1,9 @@
+{
+  "name": "Test Application",
+  "short_name": "Test",
+  "start_url": "/mainApp/index.html",
+  "display": "standalone",
+  "background_color": "#09054a",
+  "theme_color": "#3d33f7",
+  "icons": []
+}
